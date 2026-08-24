@@ -2,12 +2,13 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0;url=/translator/">
   <link rel="canonical" href="https://triplehai.com/translator/">
   <title>Redirecting…</title>
+  <noscript><meta http-equiv="refresh" content="0;url=/translator/"></noscript>
 </head>
 <body>
   <p>正在跳轉至 <a href="/translator/">翻譯小幫手</a>…</p>
-  <script>window.location.replace('/translator/');</script>
+  <!-- 保留 ?gclid= 等廣告追蹤參數，轉換歸因才能運作 -->
+  <script>window.location.replace('/translator/' + location.search + location.hash);</script>
 </body>
 </html>
