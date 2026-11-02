@@ -32,3 +32,4 @@ Allow: /
 
 Sitemap: https://triplehai.com/translator/sitemap.xml
 Sitemap: https://triplehai.com/Lagerstroemia/sitemap.xml
+Sitemap: https://triplehai.com/zaoan/sitemap.xml
