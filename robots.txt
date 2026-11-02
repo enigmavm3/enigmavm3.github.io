@@ -31,3 +31,4 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://triplehai.com/translator/sitemap.xml
+Sitemap: https://triplehai.com/Lagerstroemia/sitemap.xml
